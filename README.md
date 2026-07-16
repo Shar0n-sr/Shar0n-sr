@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Sharon S R
 
-<!--
-**Shar0n-sr/Shar0n-sr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+💻 Learning Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐧 Exploring Linux
+
+🔐 Aspiring Cybersecurity Enthusiast
+
+🌱 Currently Learning
+- Python
+- Git & GitHub
+- Linux
+
+## Current Projects
+
+- Linux System Monitor
+- Python Practice
+- Tech Journey
+
+Thanks for visiting!
